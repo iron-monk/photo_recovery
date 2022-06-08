@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "typescript": "^4.7.3"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.41",
+    "fs-extra": "^10.1.0"
+  }
+}
